@@ -18,4 +18,5 @@ public class EmployeeStorageIsFullException extends IOException {
     public EmployeeStorageIsFullException(Throwable t) {
         super(t);
     }
+
 }

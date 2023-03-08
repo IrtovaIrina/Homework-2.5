@@ -18,3 +18,4 @@ public class EmployeeAlreadyAddedException extends IOException {
         super(t);
     }
 }
+
